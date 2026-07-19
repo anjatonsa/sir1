@@ -1,0 +1,42 @@
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+df2e02972fb4   nyc-bus-transit-analysis-flink-taskmanager-2   3.34%     906.2MiB / 1GiB     88.50%    37.1MB / 1.32MB   0B / 0B     227
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+df2e02972fb4   nyc-bus-transit-analysis-flink-taskmanager-2   5.05%     906.3MiB / 1GiB     88.51%    37.1MB / 1.42MB   0B / 0B     227
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+df2e02972fb4   nyc-bus-transit-analysis-flink-taskmanager-2   3.82%     904.4MiB / 1GiB     88.32%    37.5MB / 1.43MB   0B / 0B     226
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+df2e02972fb4   nyc-bus-transit-analysis-flink-taskmanager-2   3.42%     901MiB / 1GiB       87.99%    37.5MB / 1.52MB   0B / 0B     226
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+df2e02972fb4   nyc-bus-transit-analysis-flink-taskmanager-2   4.80%     900.4MiB / 1GiB     87.93%    37.9MB / 1.63MB   0B / 0B     226
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+df2e02972fb4   nyc-bus-transit-analysis-flink-taskmanager-2   3.43%     900.5MiB / 1GiB     87.94%    37.9MB / 1.64MB   0B / 0B     226
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+df2e02972fb4   nyc-bus-transit-analysis-flink-taskmanager-2   3.08%     903.5MiB / 1GiB     88.24%    38.3MB / 1.74MB   0B / 0B     226
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+df2e02972fb4   nyc-bus-transit-analysis-flink-taskmanager-2   3.86%     903.6MiB / 1GiB     88.24%    38.3MB / 1.75MB   0B / 0B     226
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+df2e02972fb4   nyc-bus-transit-analysis-flink-taskmanager-2   4.54%     903.1MiB / 1GiB     88.20%    38.6MB / 1.86MB   0B / 0B     226
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+df2e02972fb4   nyc-bus-transit-analysis-flink-taskmanager-2   3.19%     903.2MiB / 1GiB     88.20%    38.6MB / 1.95MB   0B / 0B     226
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O   PIDS
+df2e02972fb4   nyc-bus-transit-analysis-flink-taskmanager-2   3.29%     905.8MiB / 1GiB     88.46%    39MB / 1.96MB   0B / 0B     226
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O   PIDS
+df2e02972fb4   nyc-bus-transit-analysis-flink-taskmanager-2   6.22%     905MiB / 1GiB       88.38%    39MB / 2.06MB   0B / 0B     226
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+df2e02972fb4   nyc-bus-transit-analysis-flink-taskmanager-2   2.89%     905.5MiB / 1GiB     88.43%    39.4MB / 2.08MB   0B / 0B     226
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+df2e02972fb4   nyc-bus-transit-analysis-flink-taskmanager-2   3.90%     896.2MiB / 1GiB     87.52%    39.4MB / 2.17MB   0B / 0B     226
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+df2e02972fb4   nyc-bus-transit-analysis-flink-taskmanager-2   5.68%     894.5MiB / 1GiB     87.36%    39.8MB / 2.27MB   0B / 0B     228
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+df2e02972fb4   nyc-bus-transit-analysis-flink-taskmanager-2   2.62%     902.9MiB / 1GiB     88.17%    39.8MB / 2.28MB   0B / 0B     226
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+df2e02972fb4   nyc-bus-transit-analysis-flink-taskmanager-2   14.32%    903.4MiB / 1GiB     88.23%    40.1MB / 2.39MB   0B / 0B     228
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O   PIDS
+df2e02972fb4   nyc-bus-transit-analysis-flink-taskmanager-2   5.15%     890MiB / 1GiB       86.91%    40.1MB / 2.4MB   0B / 0B     226
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O   PIDS
+df2e02972fb4   nyc-bus-transit-analysis-flink-taskmanager-2   16.23%    887.9MiB / 1GiB     86.71%    40.3MB / 2.5MB   0B / 0B     228
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+df2e02972fb4   nyc-bus-transit-analysis-flink-taskmanager-2   3.11%     889.1MiB / 1GiB     86.83%    40.5MB / 2.51MB   0B / 0B     226
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O   PIDS
+df2e02972fb4   nyc-bus-transit-analysis-flink-taskmanager-2   2.50%     889.2MiB / 1GiB     86.84%    40.5MB / 2.6MB   0B / 0B     226

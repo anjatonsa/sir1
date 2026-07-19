@@ -83,18 +83,33 @@ services:
       - "8083:8081"
     environment:
       KAFKA_BOOTSTRAP_SERVERS: ${KAFKA_BOOTSTRAP_SERVERS}
+      KAFKA_TOPIC: ${KAFKA_TOPIC}
+      KAFKA_CONSUMER_GROUP1: ${KAFKA_CONSUMER_GROUP1}
+      KAFKA_CONSUMER_GROUP2: ${KAFKA_CONSUMER_GROUP2}
       CLICKHOUSE_HOST: ${CLICKHOUSE_HOST}
       CLICKHOUSE_PORT: ${CLICKHOUSE_PORT}
       CLICKHOUSE_DB: ${CLICKHOUSE_DB}
       CLICKHOUSE_USER: ${CLICKHOUSE_USER}
       CLICKHOUSE_PASSWORD: ${CLICKHOUSE_PASSWORD}
+      FLINK_PARALLELISM: ${FLINK_PARALLELISM}
       FLINK_PROPERTIES: |
         jobmanager.rpc.address: flink-jobmanager
-        taskmanager.numberOfTaskSlots: 8
+        jobmanager.rpc.bind-host: 0.0.0.0
+        jobmanager.bind-host: 0.0.0.0
+        rest.address: flink-jobmanager
+        taskmanager.numberOfTaskSlots: ${TASK_SLOTS}
+      WINDOW_SIZE_MINUTES: ${WINDOW_SIZE_MINUTES}
+      WATERMARK_MAX_OUT_OF_ORDERNESS_SECONDS: ${WATERMARK_MAX_OUT_OF_ORDERNESS_SECONDS}
+      BATCH_SIZE: ${BATCH_SIZE}
+      BATCH_TIMEOUT_SECONDS: ${BATCH_TIMEOUT_SECONDS}
+      DWELL_THRESHOLD_SECONDS: ${DWELL_THRESHOLD_SECONDS}
+      DWELL_REPEAT_SECONDS: ${DWELL_REPEAT_SECONDS}
+      ALERT_THRESHOLD_SECONDS: ${ALERT_THRESHOLD_SECONDS}
     deploy:
+      replicas: ${NUM_TASK_MANAGERS:-1}
       resources:
         limits:
-          memory: 768m
+          memory: ${TASKMANAGER_MEMORY:-2g}
     depends_on:
       kafka:
         condition: service_healthy
@@ -105,22 +120,34 @@ services:
     build:
       context: .
       dockerfile: Dockerfile.flink
-    container_name: flink-taskmanager
     command: taskmanager
     environment:
       KAFKA_BOOTSTRAP_SERVERS: ${KAFKA_BOOTSTRAP_SERVERS}
+      KAFKA_TOPIC: ${KAFKA_TOPIC}
+      KAFKA_CONSUMER_GROUP1: ${KAFKA_CONSUMER_GROUP1}
+      KAFKA_CONSUMER_GROUP2: ${KAFKA_CONSUMER_GROUP2}
       CLICKHOUSE_HOST: ${CLICKHOUSE_HOST}
       CLICKHOUSE_PORT: ${CLICKHOUSE_PORT}
       CLICKHOUSE_DB: ${CLICKHOUSE_DB}
       CLICKHOUSE_USER: ${CLICKHOUSE_USER}
       CLICKHOUSE_PASSWORD: ${CLICKHOUSE_PASSWORD}
+      FLINK_PARALLELISM: ${FLINK_PARALLELISM}
       FLINK_PROPERTIES: |
         jobmanager.rpc.address: flink-jobmanager
-        taskmanager.numberOfTaskSlots: 8
+        jobmanager.rpc.bind-host: 0.0.0.0
+        taskmanager.numberOfTaskSlots: ${TASK_SLOTS}
+      WINDOW_SIZE_MINUTES: ${WINDOW_SIZE_MINUTES}
+      WATERMARK_MAX_OUT_OF_ORDERNESS_SECONDS: ${WATERMARK_MAX_OUT_OF_ORDERNESS_SECONDS}
+      BATCH_SIZE: ${BATCH_SIZE}
+      BATCH_TIMEOUT_SECONDS: ${BATCH_TIMEOUT_SECONDS}
+      DWELL_THRESHOLD_SECONDS: ${DWELL_THRESHOLD_SECONDS}
+      DWELL_REPEAT_SECONDS: ${DWELL_REPEAT_SECONDS}
+      ALERT_THRESHOLD_SECONDS: ${ALERT_THRESHOLD_SECONDS}
     deploy:
+      replicas: ${NUM_TASK_MANAGERS:-1}
       resources:
         limits:
-          memory: 2g
+          memory: ${TASKMANAGER_MEMORY:-2g}
     depends_on:
       - flink-jobmanager
     volumes:

@@ -1,0 +1,246 @@
+=== Sun, Jul 19, 2026  6:30:11 PM ===
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O   PIDS
+989bfa0b3f66   nyc-bus-transit-analysis-flink-taskmanager-1   3.82%     1006MiB / 1GiB      98.25%    36.7MB / 744kB   0B / 0B     223
+=== Sun, Jul 19, 2026  6:30:17 PM ===
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O        BLOCK I/O   PIDS
+989bfa0b3f66   nyc-bus-transit-analysis-flink-taskmanager-1   7.51%     1012MiB / 1GiB      98.78%    37MB / 844kB   0B / 0B     225
+=== Sun, Jul 19, 2026  6:30:24 PM ===
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O   PIDS
+989bfa0b3f66   nyc-bus-transit-analysis-flink-taskmanager-1   3.97%     998.1MiB / 1GiB     97.47%    37.4MB / 864kB   0B / 0B     235
+=== Sun, Jul 19, 2026  6:30:26 PM ===
+=== Sun, Jul 19, 2026  6:30:31 PM ===
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O   PIDS
+989bfa0b3f66   nyc-bus-transit-analysis-flink-taskmanager-1   4.35%     998.2MiB / 1GiB     97.48%    37.4MB / 952kB   0B / 0B     235
+=== Sun, Jul 19, 2026  6:30:39 PM ===
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O   PIDS
+989bfa0b3f66   nyc-bus-transit-analysis-flink-taskmanager-1   3.69%     1002MiB / 1GiB      97.83%    38.1MB / 978kB   0B / 0B     235
+=== Sun, Jul 19, 2026  6:30:41 PM ===
+=== Sun, Jul 19, 2026  6:30:46 PM ===
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+989bfa0b3f66   nyc-bus-transit-analysis-flink-taskmanager-1   3.70%     999.9MiB / 1GiB     97.65%    38.1MB / 1.07MB   0B / 0B     235
+=== Sun, Jul 19, 2026  6:30:48 PM ===
+=== Sun, Jul 19, 2026  6:30:52 PM ===
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+989bfa0b3f66   nyc-bus-transit-analysis-flink-taskmanager-1   11.93%    992.2MiB / 1GiB     96.90%    38.7MB / 1.18MB   0B / 0B     235
+=== Sun, Jul 19, 2026  6:31:00 PM ===
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+989bfa0b3f66   nyc-bus-transit-analysis-flink-taskmanager-1   3.45%     995.3MiB / 1GiB     97.20%    38.7MB / 1.18MB   0B / 0B     235
+=== Sun, Jul 19, 2026  6:31:02 PM ===
+=== Sun, Jul 19, 2026  6:31:07 PM ===
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O   PIDS
+989bfa0b3f66   nyc-bus-transit-analysis-flink-taskmanager-1   3.13%     996.5MiB / 1GiB     97.32%    39.4MB / 1.2MB   0B / 0B     235
+=== Sun, Jul 19, 2026  6:31:09 PM ===
+=== Sun, Jul 19, 2026  6:31:13 PM ===
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+989bfa0b3f66   nyc-bus-transit-analysis-flink-taskmanager-1   2.77%     1014MiB / 1GiB      99.04%    39.4MB / 1.22MB   0B / 0B     235
+=== Sun, Jul 19, 2026  6:31:21 PM ===
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+989bfa0b3f66   nyc-bus-transit-analysis-flink-taskmanager-1   3.16%     1006MiB / 1GiB      98.28%    40.1MB / 1.24MB   0B / 0B     233
+=== Sun, Jul 19, 2026  6:31:23 PM ===
+=== Sun, Jul 19, 2026  6:31:28 PM ===
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+989bfa0b3f66   nyc-bus-transit-analysis-flink-taskmanager-1   2.36%     1006MiB / 1GiB      98.28%    40.1MB / 1.25MB   0B / 0B     233
+=== Sun, Jul 19, 2026  6:31:30 PM ===
+=== Sun, Jul 19, 2026  6:31:34 PM ===
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+989bfa0b3f66   nyc-bus-transit-analysis-flink-taskmanager-1   2.78%     1001MiB / 1GiB      97.77%    40.7MB / 1.27MB   0B / 0B     233
+=== Sun, Jul 19, 2026  6:31:36 PM ===
+=== Sun, Jul 19, 2026  6:31:41 PM ===
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+989bfa0b3f66   nyc-bus-transit-analysis-flink-taskmanager-1   3.05%     1001MiB / 1GiB      97.76%    40.7MB / 1.28MB   0B / 0B     233
+=== Sun, Jul 19, 2026  6:31:49 PM ===
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+989bfa0b3f66   nyc-bus-transit-analysis-flink-taskmanager-1   9.65%     1002MiB / 1GiB      97.86%    41.4MB / 1.31MB   0B / 0B     233
+=== Sun, Jul 19, 2026  6:31:51 PM ===
+=== Sun, Jul 19, 2026  6:31:56 PM ===
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+989bfa0b3f66   nyc-bus-transit-analysis-flink-taskmanager-1   1.93%     1009MiB / 1GiB      98.51%    41.4MB / 1.32MB   0B / 0B     232
+=== Sun, Jul 19, 2026  6:31:58 PM ===
+=== Sun, Jul 19, 2026  6:32:02 PM ===
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+989bfa0b3f66   nyc-bus-transit-analysis-flink-taskmanager-1   19.54%    998.4MiB / 1GiB     97.50%    42.1MB / 1.34MB   0B / 0B     236
+=== Sun, Jul 19, 2026  6:32:10 PM ===
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+989bfa0b3f66   nyc-bus-transit-analysis-flink-taskmanager-1   2.74%     998.3MiB / 1GiB     97.49%    42.1MB / 1.35MB   0B / 0B     232
+=== Sun, Jul 19, 2026  6:32:12 PM ===
+=== Sun, Jul 19, 2026  6:32:17 PM ===
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+989bfa0b3f66   nyc-bus-transit-analysis-flink-taskmanager-1   2.98%     998.3MiB / 1GiB     97.49%    42.1MB / 1.36MB   0B / 0B     232
+=== Sun, Jul 19, 2026  6:32:20 PM ===
+=== Sun, Jul 19, 2026  6:32:23 PM ===
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+989bfa0b3f66   nyc-bus-transit-analysis-flink-taskmanager-1   3.25%     1013MiB / 1GiB      98.96%    42.7MB / 1.39MB   0B / 0B     232
+=== Sun, Jul 19, 2026  6:32:27 PM ===
+=== Sun, Jul 19, 2026  6:32:31 PM ===
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+989bfa0b3f66   nyc-bus-transit-analysis-flink-taskmanager-1   3.32%     1006MiB / 1GiB      98.26%    42.8MB / 1.39MB   0B / 0B     232
+=== Sun, Jul 19, 2026  6:32:33 PM ===
+=== Sun, Jul 19, 2026  6:32:37 PM ===
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+989bfa0b3f66   nyc-bus-transit-analysis-flink-taskmanager-1   4.64%     1007MiB / 1GiB      98.33%    43.4MB / 1.42MB   0B / 0B     232
+=== Sun, Jul 19, 2026  6:32:40 PM ===
+=== Sun, Jul 19, 2026  6:32:44 PM ===
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+989bfa0b3f66   nyc-bus-transit-analysis-flink-taskmanager-1   22.48%    1006MiB / 1GiB      98.22%    43.4MB / 1.43MB   0B / 0B     232
+=== Sun, Jul 19, 2026  6:32:47 PM ===
+=== Sun, Jul 19, 2026  6:32:51 PM ===
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+989bfa0b3f66   nyc-bus-transit-analysis-flink-taskmanager-1   7.54%     1007MiB / 1GiB      98.30%    44.1MB / 1.45MB   0B / 0B     232
+=== Sun, Jul 19, 2026  6:32:54 PM ===
+=== Sun, Jul 19, 2026  6:32:59 PM ===
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+989bfa0b3f66   nyc-bus-transit-analysis-flink-taskmanager-1   2.98%     1006MiB / 1GiB      98.23%    44.1MB / 1.46MB   0B / 0B     232
+=== Sun, Jul 19, 2026  6:33:01 PM ===
+=== Sun, Jul 19, 2026  6:33:06 PM ===
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+989bfa0b3f66   nyc-bus-transit-analysis-flink-taskmanager-1   13.20%    999MiB / 1GiB       97.56%    44.8MB / 1.48MB   0B / 0B     232
+=== Sun, Jul 19, 2026  6:33:08 PM ===
+=== Sun, Jul 19, 2026  6:33:12 PM ===
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O   PIDS
+989bfa0b3f66   nyc-bus-transit-analysis-flink-taskmanager-1   4.54%     992.2MiB / 1GiB     96.89%    44.8MB / 1.5MB   0B / 0B     232
+=== Sun, Jul 19, 2026  6:33:20 PM ===
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+989bfa0b3f66   nyc-bus-transit-analysis-flink-taskmanager-1   2.39%     1000MiB / 1GiB      97.67%    45.4MB / 1.52MB   0B / 0B     232
+=== Sun, Jul 19, 2026  6:33:22 PM ===
+=== Sun, Jul 19, 2026  6:33:27 PM ===
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+989bfa0b3f66   nyc-bus-transit-analysis-flink-taskmanager-1   2.67%     1000MiB / 1GiB      97.68%    45.4MB / 1.53MB   0B / 0B     232
+=== Sun, Jul 19, 2026  6:33:29 PM ===
+=== Sun, Jul 19, 2026  6:33:34 PM ===
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+989bfa0b3f66   nyc-bus-transit-analysis-flink-taskmanager-1   1.86%     1002MiB / 1GiB      97.89%    46.1MB / 1.55MB   0B / 0B     233
+=== Sun, Jul 19, 2026  6:33:41 PM ===
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+989bfa0b3f66   nyc-bus-transit-analysis-flink-taskmanager-1   2.50%     1002MiB / 1GiB      97.86%    46.1MB / 1.56MB   0B / 0B     233
+=== Sun, Jul 19, 2026  6:33:43 PM ===
+=== Sun, Jul 19, 2026  6:33:48 PM ===
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+989bfa0b3f66   nyc-bus-transit-analysis-flink-taskmanager-1   10.27%    1003MiB / 1GiB      97.97%    46.7MB / 1.58MB   0B / 0B     235
+=== Sun, Jul 19, 2026  6:33:50 PM ===
+=== Sun, Jul 19, 2026  6:33:55 PM ===
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O   PIDS
+989bfa0b3f66   nyc-bus-transit-analysis-flink-taskmanager-1   2.74%     1003MiB / 1GiB      97.94%    46.8MB / 1.6MB   0B / 0B     233
+=== Sun, Jul 19, 2026  6:33:57 PM ===
+=== Sun, Jul 19, 2026  6:34:01 PM ===
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O   PIDS
+989bfa0b3f66   nyc-bus-transit-analysis-flink-taskmanager-1   2.26%     1003MiB / 1GiB      97.95%    46.8MB / 1.6MB   0B / 0B     233
+=== Sun, Jul 19, 2026  6:34:09 PM ===
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+989bfa0b3f66   nyc-bus-transit-analysis-flink-taskmanager-1   2.22%     1003MiB / 1GiB      97.98%    47.4MB / 1.63MB   0B / 0B     233
+=== Sun, Jul 19, 2026  6:34:11 PM ===
+=== Sun, Jul 19, 2026  6:34:16 PM ===
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+989bfa0b3f66   nyc-bus-transit-analysis-flink-taskmanager-1   2.18%     1003MiB / 1GiB      97.98%    47.5MB / 1.64MB   0B / 0B     233
+=== Sun, Jul 19, 2026  6:34:18 PM ===
+=== Sun, Jul 19, 2026  6:34:23 PM ===
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+989bfa0b3f66   nyc-bus-transit-analysis-flink-taskmanager-1   2.62%     1003MiB / 1GiB      98.00%    48.1MB / 1.67MB   0B / 0B     233
+=== Sun, Jul 19, 2026  6:34:30 PM ===
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+989bfa0b3f66   nyc-bus-transit-analysis-flink-taskmanager-1   2.30%     1004MiB / 1GiB      98.01%    48.1MB / 1.67MB   0B / 0B     233
+=== Sun, Jul 19, 2026  6:34:32 PM ===
+=== Sun, Jul 19, 2026  6:34:37 PM ===
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+989bfa0b3f66   nyc-bus-transit-analysis-flink-taskmanager-1   2.90%     1005MiB / 1GiB      98.14%    48.8MB / 1.69MB   0B / 0B     232
+=== Sun, Jul 19, 2026  6:34:40 PM ===
+=== Sun, Jul 19, 2026  6:34:44 PM ===
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+989bfa0b3f66   nyc-bus-transit-analysis-flink-taskmanager-1   2.62%     1005MiB / 1GiB      98.14%    48.8MB / 1.71MB   0B / 0B     232
+=== Sun, Jul 19, 2026  6:34:47 PM ===
+=== Sun, Jul 19, 2026  6:34:51 PM ===
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+989bfa0b3f66   nyc-bus-transit-analysis-flink-taskmanager-1   2.90%     995.7MiB / 1GiB     97.24%    49.5MB / 1.73MB   0B / 0B     232
+=== Sun, Jul 19, 2026  6:34:53 PM ===
+=== Sun, Jul 19, 2026  6:34:57 PM ===
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+989bfa0b3f66   nyc-bus-transit-analysis-flink-taskmanager-1   5.15%     995.5MiB / 1GiB     97.22%    49.5MB / 1.74MB   0B / 0B     232
+=== Sun, Jul 19, 2026  6:35:00 PM ===
+=== Sun, Jul 19, 2026  6:35:04 PM ===
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+989bfa0b3f66   nyc-bus-transit-analysis-flink-taskmanager-1   2.52%     997MiB / 1GiB       97.37%    50.1MB / 1.76MB   0B / 0B     234
+=== Sun, Jul 19, 2026  6:35:07 PM ===
+=== Sun, Jul 19, 2026  6:35:11 PM ===
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+989bfa0b3f66   nyc-bus-transit-analysis-flink-taskmanager-1   5.09%     997.7MiB / 1GiB     97.44%    50.2MB / 1.78MB   0B / 0B     232
+=== Sun, Jul 19, 2026  6:35:14 PM ===
+=== Sun, Jul 19, 2026  6:35:19 PM ===
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O   PIDS
+989bfa0b3f66   nyc-bus-transit-analysis-flink-taskmanager-1   9.29%     1002MiB / 1GiB      97.84%    50.8MB / 1.8MB   0B / 0B     234
+=== Sun, Jul 19, 2026  6:35:21 PM ===
+=== Sun, Jul 19, 2026  6:35:26 PM ===
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+989bfa0b3f66   nyc-bus-transit-analysis-flink-taskmanager-1   3.41%     1002MiB / 1GiB      97.81%    50.8MB / 1.81MB   0B / 0B     234
+=== Sun, Jul 19, 2026  6:35:28 PM ===
+=== Sun, Jul 19, 2026  6:35:33 PM ===
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+989bfa0b3f66   nyc-bus-transit-analysis-flink-taskmanager-1   20.08%    1012MiB / 1GiB      98.81%    51.5MB / 1.84MB   0B / 0B     234
+=== Sun, Jul 19, 2026  6:35:40 PM ===
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+989bfa0b3f66   nyc-bus-transit-analysis-flink-taskmanager-1   2.81%     1012MiB / 1GiB      98.80%    51.5MB / 1.84MB   0B / 0B     234
+=== Sun, Jul 19, 2026  6:35:42 PM ===
+=== Sun, Jul 19, 2026  6:35:47 PM ===
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+989bfa0b3f66   nyc-bus-transit-analysis-flink-taskmanager-1   6.44%     1009MiB / 1GiB      98.54%    51.5MB / 1.85MB   0B / 0B     234
+=== Sun, Jul 19, 2026  6:35:49 PM ===
+=== Sun, Jul 19, 2026  6:35:54 PM ===
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+989bfa0b3f66   nyc-bus-transit-analysis-flink-taskmanager-1   2.83%     1006MiB / 1GiB      98.20%    52.2MB / 1.88MB   0B / 0B     234
+=== Sun, Jul 19, 2026  6:36:01 PM ===
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+989bfa0b3f66   nyc-bus-transit-analysis-flink-taskmanager-1   2.77%     1006MiB / 1GiB      98.20%    52.2MB / 1.89MB   0B / 0B     234
+=== Sun, Jul 19, 2026  6:36:03 PM ===
+=== Sun, Jul 19, 2026  6:36:08 PM ===
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+989bfa0b3f66   nyc-bus-transit-analysis-flink-taskmanager-1   5.02%     990.6MiB / 1GiB     96.74%    52.8MB / 1.91MB   0B / 0B     234
+=== Sun, Jul 19, 2026  6:36:10 PM ===
+=== Sun, Jul 19, 2026  6:36:15 PM ===
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+989bfa0b3f66   nyc-bus-transit-analysis-flink-taskmanager-1   2.74%     990.7MiB / 1GiB     96.75%    52.8MB / 1.92MB   0B / 0B     234
+=== Sun, Jul 19, 2026  6:36:17 PM ===
+=== Sun, Jul 19, 2026  6:36:22 PM ===
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+989bfa0b3f66   nyc-bus-transit-analysis-flink-taskmanager-1   3.49%     990.9MiB / 1GiB     96.77%    53.5MB / 1.95MB   0B / 0B     232
+=== Sun, Jul 19, 2026  6:36:29 PM ===
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+989bfa0b3f66   nyc-bus-transit-analysis-flink-taskmanager-1   2.73%     991.1MiB / 1GiB     96.78%    53.5MB / 1.96MB   0B / 0B     232
+=== Sun, Jul 19, 2026  6:36:31 PM ===
+=== Sun, Jul 19, 2026  6:36:36 PM ===
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+989bfa0b3f66   nyc-bus-transit-analysis-flink-taskmanager-1   2.28%     991.3MiB / 1GiB     96.80%    54.2MB / 1.98MB   0B / 0B     232
+=== Sun, Jul 19, 2026  6:36:38 PM ===
+=== Sun, Jul 19, 2026  6:36:43 PM ===
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+989bfa0b3f66   nyc-bus-transit-analysis-flink-taskmanager-1   2.39%     991.3MiB / 1GiB     96.81%    54.2MB / 1.99MB   0B / 0B     232
+=== Sun, Jul 19, 2026  6:36:50 PM ===
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+989bfa0b3f66   nyc-bus-transit-analysis-flink-taskmanager-1   3.12%     991.6MiB / 1GiB     96.84%    54.9MB / 2.01MB   0B / 0B     232
+=== Sun, Jul 19, 2026  6:36:52 PM ===
+=== Sun, Jul 19, 2026  6:36:57 PM ===
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+989bfa0b3f66   nyc-bus-transit-analysis-flink-taskmanager-1   2.67%     991.6MiB / 1GiB     96.84%    54.9MB / 2.02MB   0B / 0B     232
+=== Sun, Jul 19, 2026  6:36:59 PM ===
+=== Sun, Jul 19, 2026  6:37:04 PM ===
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+989bfa0b3f66   nyc-bus-transit-analysis-flink-taskmanager-1   3.15%     991.8MiB / 1GiB     96.85%    55.5MB / 2.05MB   0B / 0B     234
+=== Sun, Jul 19, 2026  6:37:11 PM ===
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+989bfa0b3f66   nyc-bus-transit-analysis-flink-taskmanager-1   2.84%     992.3MiB / 1GiB     96.90%    55.5MB / 2.05MB   0B / 0B     232
+=== Sun, Jul 19, 2026  6:37:13 PM ===
+=== Sun, Jul 19, 2026  6:37:18 PM ===
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+989bfa0b3f66   nyc-bus-transit-analysis-flink-taskmanager-1   17.82%    996.3MiB / 1GiB     97.29%    56.2MB / 2.08MB   0B / 0B     234
+=== Sun, Jul 19, 2026  6:37:20 PM ===
+=== Sun, Jul 19, 2026  6:37:25 PM ===
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+989bfa0b3f66   nyc-bus-transit-analysis-flink-taskmanager-1   3.61%     996MiB / 1GiB       97.26%    56.2MB / 2.09MB   0B / 0B     232
+=== Sun, Jul 19, 2026  6:37:27 PM ===
+=== Sun, Jul 19, 2026  6:37:32 PM ===
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+989bfa0b3f66   nyc-bus-transit-analysis-flink-taskmanager-1   3.22%     996.4MiB / 1GiB     97.30%    56.2MB / 2.11MB   0B / 0B     232
+=== Sun, Jul 19, 2026  6:37:39 PM ===
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+989bfa0b3f66   nyc-bus-transit-analysis-flink-taskmanager-1   3.29%     995MiB / 1GiB       97.17%    56.9MB / 2.12MB   0B / 0B     232
+=== Sun, Jul 19, 2026  6:37:41 PM ===
+=== Sun, Jul 19, 2026  6:37:46 PM ===
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+989bfa0b3f66   nyc-bus-transit-analysis-flink-taskmanager-1   2.83%     995MiB / 1GiB       97.17%    56.9MB / 2.13MB   0B / 0B     232

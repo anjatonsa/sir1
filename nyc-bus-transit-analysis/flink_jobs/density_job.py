@@ -25,8 +25,9 @@ logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger("density-job")
 
 KAFKA_BOOTSTRAP_SERVERS = os.environ.get("KAFKA_BOOTSTRAP_SERVERS")
-KAFKA_TOPIC = "vehicle-positions"
-KAFKA_CONSUMER_GROUP = "flink-density"
+KAFKA_TOPIC = os.environ.get("KAFKA_TOPIC", "vehicle-positions")
+KAFKA_CONSUMER_GROUP = os.environ.get("KAFKA_CONSUMER_GROUP2", "flink-density")
+
 
 CLICKHOUSE_HOST = os.environ.get("CLICKHOUSE_HOST")
 CLICKHOUSE_PORT = os.environ.get("CLICKHOUSE_PORT")
@@ -34,11 +35,11 @@ CLICKHOUSE_USER = os.environ.get("CLICKHOUSE_USER")
 CLICKHOUSE_PASSWORD = os.environ.get("CLICKHOUSE_PASSWORD")
 CLICKHOUSE_DATABASE = os.environ.get("CLICKHOUSE_DB")
 
-WINDOW_SIZE_MINUTES = 5
+WINDOW_SIZE_MINUTES = int(os.environ.get("WINDOW_SIZE_MINUTES", 5))
 
-WATERMARK_MAX_OUT_OF_ORDERNESS_SECONDS = 10
-BATCH_SIZE = 50
-BATCH_TIMEOUT_SECONDS = 5.0
+WATERMARK_MAX_OUT_OF_ORDERNESS_SECONDS = int(os.environ.get("WATERMARK_MAX_OUT_OF_ORDERNESS_SECONDS", 10))
+BATCH_SIZE = int(os.environ.get("BATCH_SIZE", 50))
+BATCH_TIMEOUT_SECONDS = float(os.environ.get("BATCH_TIMEOUT_SECONDS", 5.0))
 
 def haversine_distance_m(lat1: float, lon1: float, lat2: float, lon2: float) -> float:
     R = 6371000
@@ -175,8 +176,10 @@ class BatchClickHouseDensitySink:
 
 def main():
     env = StreamExecutionEnvironment.get_execution_environment()
-    env.set_parallelism(2)
-
+    #env.set_parallelism(2)
+    parallelism = int(os.environ.get("FLINK_PARALLELISM", 1))
+    env.set_parallelism(parallelism)
+    
     kafka_source = (
         KafkaSource.builder()
         .set_bootstrap_servers(KAFKA_BOOTSTRAP_SERVERS)
