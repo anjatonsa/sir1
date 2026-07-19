@@ -48,10 +48,11 @@ ClickHouse tabele se kreiraju automatski pri prvom pokretanju kontejnera, putem 
 
 ## Pokretanje
 
-### Podizanje infrastrukture
+### Podizanje infrastrukture odredjene konfiguracije
 ```bash
-docker compose up -d --build
+./run_test.sh config1
 ```
+Postoji 5 različitih konfiguraicja (config1, config2, config3, config4, config5).
 
 ### Pokretanje Flink job-ova
 ```bash
